@@ -9,7 +9,7 @@ one_d = np.array([23,23,33])
 
 #Two Dimensional:
 Two_d = np.array([[3,4,3],
-                  [1,2,9]])
+[1,2,9]])
 #print(Two_d)
 
 #Multi_Dimensional :
