@@ -16,4 +16,3 @@ Two_d = np.array([[3,4,3],
 mul_d = np.array([[[1, 2, 3], [4, 5, 6]], [[1, 2, 3], [4, 5, 6]]])
 #print(mul_d)
 
-# add some 
